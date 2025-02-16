@@ -948,3 +948,8 @@ video {
     0px 0px 0px 1px #EAEDF0,
     0px -2.14px 0px 0px #F6F6F6 inset;
 }
+
+
+img{
+  object-fit: cover;
+}
